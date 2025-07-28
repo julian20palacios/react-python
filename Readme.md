@@ -1,4 +1,3 @@
-
 #### ***Crear y activar entorno de desarrollo Backend***
 
 [](https://github.com/julian20palacios/plantilla-python-react/blob/main/Readme.md#crear-y-activar-entorno-de-desarrollo-backend)
@@ -19,5 +18,7 @@
 
 **Ingresar a la carpeta del Frontend:** cd frontend
 
-
 **Requirimientos:** pip freeze > requirements.txt
+
+
+Comnetario final...
