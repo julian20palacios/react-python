@@ -1,4 +1,6 @@
 // src/api/Login.js
+// This file contains the API call for user login.
+
 const API_URL = import.meta.env.VITE_API_BASE_URL.replace(/\/$/, '');
 
 export const loginUsuario = async (email, password) => {
